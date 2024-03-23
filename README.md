@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding (of course)
 - 🌱 I’m currently learning Python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on Python Projects helping businesses by making them more efficient.
-- 📫 How to reach me: ronil.theamazing@gmail.com (email or google chat)
+- 📫 How to reach me: shahronil1001@gmail.com
 
 <!---
 roshah09/roshah09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
